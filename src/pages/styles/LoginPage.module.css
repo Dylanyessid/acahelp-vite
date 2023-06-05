@@ -1,0 +1,16 @@
+.h1{
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  text-align: center;
+}
+
+main {
+  width: 90%;
+  margin: 20px auto;
+  background: #FAFAFA;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}

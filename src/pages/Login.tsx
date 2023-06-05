@@ -1,12 +1,12 @@
-import React from 'react'
-import LoginForm from '../components/LoginForm'
+import styles from "./styles/LoginPage.module.css"
+import LoginForm from '../components/Forms/LoginForm'
 
 const Login = () => {
   return (
-    <>
-    <h1>AcaHelp</h1>
+    <main>
+    <h1 className={styles.h1}>AcaHelp</h1>
      <LoginForm/> 
-    </>
+    </main>
   )
 }
 

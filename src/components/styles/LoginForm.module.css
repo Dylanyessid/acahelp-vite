@@ -1,0 +1,38 @@
+.textInputs{
+ 
+  display: block;
+  height: 60px;
+  width: 65%;
+  margin: 10px auto;
+  font-size: 18px;
+  background: #FFFFFF;
+  border: 5px solid #9F9F9F;
+  box-shadow: 2px 2px 2px rgba(159, 159, 159, 0.75);
+  border-radius: 10px;
+}
+
+h4{
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.loginBtn, .registerBtn{
+  display: block;
+  border: none;
+  border-radius: 30px;
+  padding: 15px;
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+  margin: 10px auto;
+}
+
+.loginBtn{
+  background: #2135ED;
+}
+
+.registerBtn{
+  background: #21ED4E;
+  
+}
